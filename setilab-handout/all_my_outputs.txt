@@ -1,0 +1,152 @@
+type:     Binary
+file:     /home/cs213lab/HANDOUT/alien_msg.sig
+Fs:       400000.000000 Hz
+order:    32
+bands:    16
+Load or map file
+Read 12000000 samples
+Removing DC component of -0.000372
+signal average power:     1.904742
+Up to here took until 12848688815324798 cycles, 1773181119.376382 secondsUp to here took until 12848706448902398 cycles, 1773181126.174523 seconds    0             0.000100 to         12499.999900 Hz:             0.002983 *(meh)
+    1         12500.000100 to         24999.999900 Hz:             0.000251 *(meh)
+    2         25000.000100 to         37499.999900 Hz:             0.002199 *(meh)
+    3         37500.000100 to         49999.999900 Hz:             0.002837 *(meh)
+    4         50000.000100 to         62499.999900 Hz:             0.000835 *(meh)
+    5         62500.000100 to         74999.999900 Hz:             0.000040 *(meh)
+    6         75000.000100 to         87499.999900 Hz:             0.000020 *(meh)
+    7         87500.000100 to         99999.999900 Hz:             0.000033 *(meh)
+    8        100000.000100 to        112499.999900 Hz:             0.000670 *(meh)
+    9        112500.000100 to        124999.999900 Hz:             0.144065 *************(WOW)
+   10        125000.000100 to        137499.999900 Hz:             0.474528 ****************************************(WOW)
+   11        137500.000100 to        149999.999900 Hz:             0.076179 *******(meh)
+   12        150000.000100 to        162499.999900 Hz:             0.000111 *(meh)
+   13        162500.000100 to        174999.999900 Hz:             0.000031 *(meh)
+   14        175000.000100 to        187499.999900 Hz:             0.000020 *(meh)
+   15        187500.000100 to        199999.999900 Hz:             0.000027 *(meh)
+Resource usages:
+User time        6.689107 seconds
+System time      0.076656 seconds
+Page faults      67298
+Page swaps       0
+Blocks of I/O    0
+Signals caught   0
+Context switches 20
+timing overhead is at least 24 cycles
+Analysis took 17633577600 cycles (6.313836 seconds) by cycle count, timing overhead=24 cycles
+Note that cycle count only makes sense if the thread stayed on one core
+Analysis took 6.798141 seconds by basic timing
+POSSIBLE ALIENS 112500.000100-137499.999900 HZ (CENTER 125000.000000 HZ)
+type:     Binary
+file:     /home/cs213lab/HANDOUT/alien_msg.sig
+Fs:       400000.000000 Hz
+order:    32
+bands:    16
+Load or map file
+Read 12000000 samples
+Removing DC component of -0.000372
+signal average power:     1.904742
+Up to here took until 12848724371053518 cycles, 1773181133.083916 secondsUp to here took until 12848733206537196 cycles, 1773181136.490194 seconds    0             0.000100 to         12499.999900 Hz:             0.002983 *(meh)
+    1         12500.000100 to         24999.999900 Hz:             0.000251 *(meh)
+    2         25000.000100 to         37499.999900 Hz:             0.002199 *(meh)
+    3         37500.000100 to         49999.999900 Hz:             0.002837 *(meh)
+    4         50000.000100 to         62499.999900 Hz:             0.000835 *(meh)
+    5         62500.000100 to         74999.999900 Hz:             0.000040 *(meh)
+    6         75000.000100 to         87499.999900 Hz:             0.000020 *(meh)
+    7         87500.000100 to         99999.999900 Hz:             0.000033 *(meh)
+    8        100000.000100 to        112499.999900 Hz:             0.000670 *(meh)
+    9        112500.000100 to        124999.999900 Hz:             0.144065 *************(WOW)
+   10        125000.000100 to        137499.999900 Hz:             0.474528 ****************************************(WOW)
+   11        137500.000100 to        149999.999900 Hz:             0.076179 *******(meh)
+   12        150000.000100 to        162499.999900 Hz:             0.000111 *(meh)
+   13        162500.000100 to        174999.999900 Hz:             0.000031 *(meh)
+   14        175000.000100 to        187499.999900 Hz:             0.000020 *(meh)
+   15        187500.000100 to        199999.999900 Hz:             0.000027 *(meh)
+Resource usages:
+User time        6.646056 seconds
+System time      0.112654 seconds
+Page faults      28547
+Page swaps       0
+Blocks of I/O    0
+Signals caught   0
+Context switches 2305
+timing overhead is at least 22 cycles
+Analysis took 8835483678 cycles (3.163612 seconds) by cycle count, timing overhead=22 cycles
+Note that cycle count only makes sense if the thread stayed on one core
+Analysis took 3.406278 seconds by basic timing
+POSSIBLE ALIENS 112500.000100-137499.999900 HZ (CENTER 125000.000000 HZ)
+type:     Binary
+file:     /home/cs213lab/HANDOUT/alien_msg.sig
+Fs:       400000.000000 Hz
+order:    32
+bands:    16
+Load or map file
+Read 12000000 samples
+Removing DC component of -0.000372
+signal average power:     1.904742
+Up to here took until 12848743005433874 cycles, 1773181140.267889 secondsUp to here took until 12848747325616130 cycles, 1773181141.933417 seconds    0             0.000100 to         12499.999900 Hz:             0.002983 *(meh)
+    1         12500.000100 to         24999.999900 Hz:             0.000251 *(meh)
+    2         25000.000100 to         37499.999900 Hz:             0.002199 *(meh)
+    3         37500.000100 to         49999.999900 Hz:             0.002837 *(meh)
+    4         50000.000100 to         62499.999900 Hz:             0.000835 *(meh)
+    5         62500.000100 to         74999.999900 Hz:             0.000040 *(meh)
+    6         75000.000100 to         87499.999900 Hz:             0.000020 *(meh)
+    7         87500.000100 to         99999.999900 Hz:             0.000033 *(meh)
+    8        100000.000100 to        112499.999900 Hz:             0.000670 *(meh)
+    9        112500.000100 to        124999.999900 Hz:             0.144065 *************(WOW)
+   10        125000.000100 to        137499.999900 Hz:             0.474528 ****************************************(WOW)
+   11        137500.000100 to        149999.999900 Hz:             0.076179 *******(meh)
+   12        150000.000100 to        162499.999900 Hz:             0.000111 *(meh)
+   13        162500.000100 to        174999.999900 Hz:             0.000031 *(meh)
+   14        175000.000100 to        187499.999900 Hz:             0.000020 *(meh)
+   15        187500.000100 to        199999.999900 Hz:             0.000027 *(meh)
+Resource usages:
+User time        6.577916 seconds
+System time      0.004138 seconds
+Page faults      502
+Page swaps       0
+Blocks of I/O    0
+Signals caught   0
+Context switches 23
+timing overhead is at least 20 cycles
+Analysis took 4320182256 cycles (1.546874 seconds) by cycle count, timing overhead=20 cycles
+Note that cycle count only makes sense if the thread stayed on one core
+Analysis took 1.665528 seconds by basic timing
+POSSIBLE ALIENS 112500.000100-137499.999900 HZ (CENTER 125000.000000 HZ)
+type:     Binary
+file:     /home/cs213lab/HANDOUT/alien_msg.sig
+Fs:       400000.000000 Hz
+order:    32
+bands:    16
+Load or map file
+Read 12000000 samples
+Removing DC component of -0.000372
+signal average power:     1.904742
+Up to here took until 12848752038316810 cycles, 1773181143.750269 secondsUp to here took until 12848754266787612 cycles, 1773181144.609395 seconds    0             0.000100 to         12499.999900 Hz:             0.002983 *(meh)
+    1         12500.000100 to         24999.999900 Hz:             0.000251 *(meh)
+    2         25000.000100 to         37499.999900 Hz:             0.002199 *(meh)
+    3         37500.000100 to         49999.999900 Hz:             0.002837 *(meh)
+    4         50000.000100 to         62499.999900 Hz:             0.000835 *(meh)
+    5         62500.000100 to         74999.999900 Hz:             0.000040 *(meh)
+    6         75000.000100 to         87499.999900 Hz:             0.000020 *(meh)
+    7         87500.000100 to         99999.999900 Hz:             0.000033 *(meh)
+    8        100000.000100 to        112499.999900 Hz:             0.000670 *(meh)
+    9        112500.000100 to        124999.999900 Hz:             0.144065 *************(WOW)
+   10        125000.000100 to        137499.999900 Hz:             0.474528 ****************************************(WOW)
+   11        137500.000100 to        149999.999900 Hz:             0.076179 *******(meh)
+   12        150000.000100 to        162499.999900 Hz:             0.000111 *(meh)
+   13        162500.000100 to        174999.999900 Hz:             0.000031 *(meh)
+   14        175000.000100 to        187499.999900 Hz:             0.000020 *(meh)
+   15        187500.000100 to        199999.999900 Hz:             0.000027 *(meh)
+Resource usages:
+User time        6.615662 seconds
+System time      0.001799 seconds
+Page faults      43
+Page swaps       0
+Blocks of I/O    0
+Signals caught   0
+Context switches 32
+timing overhead is at least 22 cycles
+Analysis took 2228470802 cycles (0.797921 seconds) by cycle count, timing overhead=22 cycles
+Note that cycle count only makes sense if the thread stayed on one core
+Analysis took 0.859126 seconds by basic timing
+POSSIBLE ALIENS 112500.000100-137499.999900 HZ (CENTER 125000.000000 HZ)

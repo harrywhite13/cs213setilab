@@ -2,7 +2,7 @@
 #include <sched.h>    // for processor affinity
 #include <unistd.h>   // unix standard apis
 #include <pthread.h>  // pthread api
-
+#include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
 
@@ -33,7 +33,7 @@ unsigned long long int rdtsc(void) {
 // Function run by each thread
 void* worker(void* arg) {
   long myid     = (long)arg;
-  int blocksize = vector_len / num_threads; // note: floor
+  int blocksize = ceil(vector_len / num_threads); // note: floor
 
   // put ourselves on the desired processor
   cpu_set_t set;
