@@ -118,17 +118,20 @@ int convolve_and_compute_power(int length, double input_signal[],
                                double* power) {
 
   double pow_sum = 0;
-
-  for (int i = 0; i < length; i++) {
+  //where i-j could be pos
+  for (int i = 0; i < order; i++) {
     double cur_sum = 0;
-    for (int j = order; j >= 0; j--) {
-      // Use coeff only if there is input signal
-      // that matches, otherwise assume input signal
-      // is zero (aperiodic model)
-      if ((i - j) >= 0 && (i - j) < length) {
-        // Causal model, use inputs up to this point
+    for (int j = 0; j <= i; j++) {
         cur_sum += input_signal[i - j] * coeffs[j];
-      }
+    }
+    pow_sum += cur_sum * cur_sum;
+  }
+  //now we can get rid of the if stmt
+  //in this arr i-j will always be >=0
+  for (int i = order; i < length; i++) {
+    double cur_sum = 0;
+    for (int j = 0; j <= order; j++) {
+        cur_sum += input_signal[i - j] * coeffs[j];
     }
     pow_sum += cur_sum * cur_sum;
   }

@@ -2,7 +2,7 @@
 # You can pick a different compiler here
 # and also choose different options
 
-CC = gcc -O3 -g -Wall
+CC = gcc -O3 -g -Wall -march=native -ffast-math
 AR = ar
 
 all: libfilter.a band_scan pthread-ex parallel-sum-ex p_band_scan
